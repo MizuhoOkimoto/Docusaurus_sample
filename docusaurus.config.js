@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Docusaurus_Sample',
   tagline: 'Docusaurus are cool',
-  url: 'https://mizuhookimoto.github.io/docusaurus_sample',
-  baseUrl: '/',
+  url: 'https://mizuhookimoto.github.io',
+  baseUrl: '/Docusaurus_sample/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
